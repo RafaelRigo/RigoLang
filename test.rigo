@@ -1,0 +1,2 @@
+writeLn ~ "Hello, world"
+writeLn ~ 1 / a - 2.5
